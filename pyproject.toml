@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wtf"
+version = "0.0.1"
+description = "Making capital T and F boolean aliases in Python"
+authors = [
+  {name = "Will Decker"}
+]
+readme = "README.md"
+requires-python = ">=3.8"
